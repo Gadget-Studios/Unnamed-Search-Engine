@@ -1,0 +1,37 @@
+{
+    "total": 6,
+    "page": 1,
+    "pageSize": 10,
+    "items": [
+        {
+            "title": "<title>Stenoip.com</title>",
+            "url": "https://stenoip.com",
+            "snippet": "Stenoip.com            Q     Oodles Metasearch Ringzauber Browser Praterich A.I Privacy and Policy Terms News         Stenoip Company The creators of ..."
+        },
+        {
+            "title": "<title>Quotes to Scrape</title>",
+            "url": "https://quotes.toscrape.com",
+            "snippet": "Quotes to Scrape         Quotes to Scrape     Login       \u201cThe world as we have created it is a process of our thinking. It cannot be changed without ..."
+        },
+        {
+            "title": "<title>\n    All products | Books to Scrape - Sandbox\n</title>",
+            "url": "https://books.toscrape.com",
+            "snippet": "All products | Books to Scrape - Sandbox                  Books to Scrape We love being scraped!         Home  All products                           ..."
+        },
+        {
+            "title": "<title>Scrape This Site | A public sandbox for learning web scraping</title>",
+            "url": "https://scrapethissite.com",
+            "snippet": "Scrape This Site | A public sandbox for learning web scraping                                                Scrape This Site                         ..."
+        },
+        {
+            "title": "<title>Web Scraper Cloud | Enterprise Web Scraping Platform</title>",
+            "url": "https://webscraper.io",
+            "snippet": "Web Scraper Cloud | Enterprise Web Scraping Platform                                    Web Scraper Cloud replaces your complex scraping stack. - Try ..."
+        },
+        {
+            "title": "<title>Crawler List: 14 Most Common Web Crawlers in 2026</title>",
+            "url": "https://kinsta.com/blog/crawler-list/#1-googlebot",
+            "snippet": "Crawler List: 14 Most Common Web Crawlers in 2026                                                     Skip to content         Black Friday No better t..."
+        }
+    ]
+}
